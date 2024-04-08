@@ -230,4 +230,5 @@ This section contains helpful links to related content. It isn't required, so co
 
 - This [Change promises to async/await video](https://www.youtube.com/watch?v=COKdtOgopWQ) is an example of how you can change callbacks, to promises, to async/await.
 - This [Promises, Async and Await video](https://www.youtube.com/watch?v=vn3tm0quoqE) gives a comprehensive view of Promises, async, and await.
+- This [Deeper Comparison of Async, Await, and Promises video](https://www.youtube.com/watch?v=spvYqO_Kp9Q) gives a deeper comparison of async/await and Promises.
 - For a more interactive explanation and example, try a [Scrim on async and await](https://scrimba.com/scrim/crd4eMc6?embed=odin,mini-header,no-next-up).
